@@ -1,3 +1,7 @@
+# Github Finder
+## Learn and practice using Reactjs
+demo: https://githubfinder-huytran.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
